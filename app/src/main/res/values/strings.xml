@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FortuneWheel</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="spin_the_wheel">Spin the Wheel</string>
+    <string name="todo">TODO</string>
+</resources>
